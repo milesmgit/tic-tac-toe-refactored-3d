@@ -1,0 +1,1 @@
+Zoom out to 25% to view the cubes in all their splendor.  I have not reduced the size of the cubes yet, as I'm not sure how without messing up the rotating animation.
